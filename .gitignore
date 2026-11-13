@@ -1,0 +1,15 @@
+# Raw data and outputs (not shared)
+raw/
+*.tar
+*.gz
+*.txt
+*.csv
+*.pdf
+*.PDF
+*.png
+
+# R session files
+.Rhistory
+.RData
+.RDataTmp*
+.Rproj.user/
